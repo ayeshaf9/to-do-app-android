@@ -38,7 +38,7 @@ A simple introduction to building a To do list app in Android studio.
 
 ![Image](https://github.com/ayeshaf9/to-do-app-android/blob/master/Images/SecondActivity.gif)
 
-6. Build the to do list layout in the `acitvity_second.xml` file using buttons and list view
+6. Build a to do list layout in the `acitvity_second.xml` file using buttons and list view
 
 ![Image](https://github.com/ayeshaf9/to-do-app-android/blob/master/Images/activity_second_xml.PNG)
 
